@@ -12,5 +12,4 @@ type Member struct {
 	Role      string
 	CreatedAt time.Time
 	UpdatedAt time.Time
-	LastLogin time.Time
 }
